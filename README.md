@@ -1,3 +1,5 @@
+![images](https://user-images.githubusercontent.com/66046010/118396930-60683800-b66f-11eb-8573-aa2d6031474c.png)
+
 Full Stack Web Developer
 
 A passionate, enthusiastic and self-motivated individual with many capabilities in task managing, 
