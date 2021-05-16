@@ -1,4 +1,5 @@
-![images](https://user-images.githubusercontent.com/66046010/118396930-60683800-b66f-11eb-8573-aa2d6031474c.png)
+![web-dev-1024x704](https://user-images.githubusercontent.com/66046010/118397086-ff8d2f80-b66f-11eb-807d-b34a26dfc8ec.jpg)
+
 
 Full Stack Web Developer
 
